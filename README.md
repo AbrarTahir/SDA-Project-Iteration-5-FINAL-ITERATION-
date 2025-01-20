@@ -30,7 +30,7 @@ Implementation: Handles the creation of Passenger, Driver, and WheelchairUser ob
 Purpose: Enable interchangeable and flexible algorithms for specific behaviors.
 Implementation: Applied to payment methods, ride cancellation policies, and booking behaviors, allowing easy customization and scalability.
 
-Technologies Used
 
+Technologies Used
 Java: Core programming language for building the system.
 OOP Principles: Encapsulation, Inheritance, Polymorphism, and Abstraction for modular and reusable code.
