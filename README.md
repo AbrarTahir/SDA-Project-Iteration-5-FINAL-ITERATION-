@@ -8,7 +8,8 @@ Inclusive Design: Seamlessly integrates functionality for wheelchair users along
 Real-Time Tracking: Drivers can track passengers, and passengers can track drivers.
 Ride History: View and manage ride records for individual users.
 Advanced Cancellation Policies: Flexible handling of normal and pre-scheduled ride cancellations.
-Design Patterns Implemented 🛠️
+
+Design Patterns Implemented
 1. Singleton Pattern
 Purpose: Ensure a single instance of critical classes like Admin to centralize and manage global application state.
 Implementation: Provides a consistent, shared resource for managing users and rides across the system.
@@ -18,6 +19,7 @@ Implementation: Handles the creation of Passenger, Driver, and WheelchairUser ob
 3. Strategy Pattern
 Purpose: Enable interchangeable and flexible algorithms for specific behaviors.
 Implementation: Applied to payment methods, ride cancellation policies, and booking behaviors, allowing easy customization and scalability.
-Technologies Used 💻
+
+Technologies Used
 Java: Core programming language for building the system.
 OOP Principles: Encapsulation, Inheritance, Polymorphism, and Abstraction for modular and reusable code.
